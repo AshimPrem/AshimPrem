@@ -34,7 +34,6 @@
 ## 📈 GitHub Stats
 
 ![Ashim's GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=AshimPrem&theme=github&hide_border=true&area=true)
-
 This is a dynamic visualization of my recent GitHub activity! Green dots represent my contributions, and the graph is updated automatically.
 ---
 
