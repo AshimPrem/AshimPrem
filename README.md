@@ -1,6 +1,6 @@
 # 👋 Hey there!, I’m **Ashim Prem Mahto**! , 
 
-### a passionate BCA student at St. Columba's College in Hazaribag, Jharkhand. 🚀 Currently diving deep into Web Development and building projects to sharpen my skills. 💻 I'm always eager to learn new technologies, and I'm particularly interested in creating responsive and user-friendly websites.
+### A passionate BCA student at St. Columba's College in Hazaribag, Jharkhand. 🚀 Currently diving deep into Web Development and building projects to sharpen my skills. 💻 I'm always eager to learn new technologies, and I'm particularly interested in creating responsive and user-friendly websites.
 
 When I'm not coding, you can find me exploring new tech trends or just enjoying life. 😎 I'm a firm believer in learning by doing, and I love to collaborate on open-source projects! 🤘
 
