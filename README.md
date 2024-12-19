@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Ashim Prem Mahto**!
+# 👋 Hey there!, I’m **Ashim Prem Mahto**!
 
 ## 🌍 About Me
 
@@ -33,7 +33,7 @@
 
 ## 📈 GitHub Stats
 
-![Ashim's GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=AshimPrem&theme=github&hide_border=true&area=true)
+![Ashim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshimPrem&show_icons=true&hide_title=true&hide_border=true&count_private=true)
 
 This is a dynamic visualization of my recent GitHub activity! Green dots represent my contributions, and the graph is updated automatically.
 ---
