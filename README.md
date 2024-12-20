@@ -9,7 +9,7 @@ When I'm not coding, you can find me exploring new tech trends or just enjoying 
 - **👀 I’m passionate about Web Development**, and I enjoy creating modern, responsive, and user-friendly web applications.
 - **🌱 I’m currently learning Next.js** to enhance my full-stack development skills and build high-performance React applications with server-side rendering.
 - **💞️ I’m open to collaborations** on open-source projects and web development-related work. Feel free to reach out if you want to team up on any exciting projects!
-- **📫 You can DM me** via [Twitter](https://twitter.com/ashim_03sep) or [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+- **📫 You can DM me** via [Twitter](https://x.com/ashim_03sep?t=RpxPrWkjwiKKE94S5chEDg&s=08) or [LinkedIn](https://www.linkedin.com/in/ashimprem?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 - **😄 Pronouns**: He/Him
 - **⚡ Fun Fact**: Devices are not smart; we programmers make them smart! 💻✨
 
@@ -43,8 +43,8 @@ When I'm not coding, you can find me exploring new tech trends or just enjoying 
 
 ## 🔗 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [LinkedIn](https://www.linkedin.com/in/ashimprem?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Twitter](https://x.com/ashim_03sep?t=RpxPrWkjwiKKE94S5chEDg&s=08)
 
 
 Feel free to check out my repositories, and don't hesitate to reach out if you'd like to collaborate or chat about tech. Let's build something amazing together! 🚀
